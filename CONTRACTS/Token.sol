@@ -2,9 +2,9 @@
 pragma solidity ^0.8.1;
 import 'hardhat/console.sol';
 contract Token{
-    string public name="CENTAURI";
-    string public symbol="CNTR";
-    uint public totalSupply=30000000;
+    string public name="_________";
+    string public symbol="___-_";
+    uint public totalSupply=_________;
     address public owner;
     mapping(address=>uint)balances;
 
